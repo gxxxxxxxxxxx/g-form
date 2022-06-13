@@ -23,5 +23,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "95edb43588c33ff7afee8c602c6766c8acb7cfd5"
+  "gitHead": "95edb43588c33ff7afee8c602c6766c8acb7cfd5",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
